@@ -9,7 +9,7 @@
 
 - Data flows from top to bottom, direction is always downstream, only the nodes below of other nodes react to change
 
-![Source: [https://github.com/undefinedschool/notes-react-principles](https://github.com/undefinedschool/notes-react-principles)](React%20Fundamentals%203c6730eecbc046749721daf202527027/Untitled.png)
+![Source: [https://github.com/undefinedschool/notes-react-principles](https://github.com/undefinedschool/notes-react-principles)](notes-images/Untitled.png)
 
 Source: [https://github.com/undefinedschool/notes-react-principles](https://github.com/undefinedschool/notes-react-principles)
 
